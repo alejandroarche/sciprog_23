@@ -1,0 +1,2 @@
+This is the code for Practical 3. To compile:
+gcc -o trap trap.c -lm
