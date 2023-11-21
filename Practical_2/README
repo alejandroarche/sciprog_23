@@ -1,0 +1,3 @@
+These are the codes for Practical 2. To compile:
+gcc -o Conversion Conversion.c -lm
+gcc -o Sum_completed Sum_completed.c -lm
