@@ -1,0 +1,2 @@
+This is the code for Practical 4. To compile:
+gcc -o trap_deg trap_deg.c -lm
