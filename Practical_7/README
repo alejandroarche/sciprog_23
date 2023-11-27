@@ -1,0 +1,3 @@
+This is the code for Practical 7. To compile:
+gcc finde.c -o finde -lm
+gcc dynamicallocation.c -o dynamicallocation
