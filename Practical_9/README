@@ -1,0 +1,3 @@
+This is the code for Practical 9. To compile:
+ggc main.c
+Then, one can execute ./a.out and provide either magic_square.txt or not_magic_square.txt
