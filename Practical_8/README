@@ -1,0 +1,2 @@
+This is the code for Practical 8. To compile:
+gcc gcd.c -o out -Wall
